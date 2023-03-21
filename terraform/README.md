@@ -1,0 +1,6 @@
+- Create Resource Group (RG)
+- Create Container Registry (ACR)
+- Create virtual network (VNET)
+- Create Subnet (SNET)
+- Create Log Analytics workspace (LA)
+- Create Kubernetes Cluster (AKS)
